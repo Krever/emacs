@@ -33,10 +33,10 @@
 (require 'request)
 
 ;; yasnippet
-(require 'yasnippet-settings)
+;; (require 'yasnippet-settings)
 
 ;; Auto complete
-(require 'auto-complete-settings)
+;; (require 'auto-complete-settings)
 
 ;; Camelcase functions
 (require 'camelcase-settings)
@@ -44,6 +44,8 @@
 ;; Helm
 (require 'helm-settings)
 
+;; Jedi python autocompletion
+(require 'jedi-settings)
 
 ;-----------;
 ;;; Modes ;;;
@@ -87,3 +89,7 @@
 (load 
  (setq custom-file (expand-file-name "settings/custom.el" user-emacs-directory))
  'noerror)
+
+
+
+
