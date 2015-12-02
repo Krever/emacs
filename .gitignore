@@ -4,9 +4,14 @@ plugins/python-mode*
 plugins/auctex
 plugins/pydoc-info-*
 plugins/matlab/
+
 el-get/*
+
 ac-comphist.dat
 
+.python-environments/*
+
+ido.last
 
 
 
