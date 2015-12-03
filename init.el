@@ -32,12 +32,6 @@
 (include-plugin "request")
 (require 'request)
 
-;; yasnippet
-;; (require 'yasnippet-settings)
-
-;; Auto complete
-;; (require 'auto-complete-settings)
-
 ;; Camelcase functions
 (require 'camelcase-settings)
 
@@ -78,9 +72,6 @@
 
 ;; YAML mode
 (require 'yaml-settings)
-
-;; Nyancat mode!
-(nyan-mode 1)
 
 
 ;---------------------------------------------------------------------
