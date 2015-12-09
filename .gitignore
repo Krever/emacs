@@ -1,4 +1,5 @@
 *.elc
+*~
 plugins/color-theme-*
 plugins/python-mode*
 plugins/auctex
@@ -8,10 +9,11 @@ plugins/matlab/
 el-get/*
 
 ac-comphist.dat
-
+auto-save-list/*
 .python-environments/*
 
 ido.last
+
 
 
 

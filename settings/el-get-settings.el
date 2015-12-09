@@ -25,14 +25,11 @@
                pydoc-info
                scss-mode
                popup
-               jedi
-               nyan-mode
-               helm
-               helm-descbinds
                js2-mode
                yasnippet
                yaml-mode
                jedi
+	       jenkins
                ))   
 
 ; first enable shallow clone, so we don't need to clone the entire

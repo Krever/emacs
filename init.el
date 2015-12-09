@@ -35,11 +35,9 @@
 ;; Camelcase functions
 (require 'camelcase-settings)
 
-;; Helm
-(require 'helm-settings)
-
 ;; Jedi python autocompletion
 (require 'jedi-settings)
+
 
 ;-----------;
 ;;; Modes ;;;
